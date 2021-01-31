@@ -1,0 +1,71 @@
+{
+    "type": "bubble",
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "box",
+          "layout": "baseline",
+          "contents": [
+            {
+              "type": "icon",
+              "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+            },
+            {
+              "type": "text",
+              "text": "Match Result",
+              "color": "#1DB446",
+              "weight": "bold",
+              "size": "lg",
+              "align": "center"
+            },
+            {
+              "type": "icon",
+              "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+            }
+          ]
+        },
+        {
+          "type": "separator",
+          "margin": "md"
+        },
+        {
+          "type": "text",
+          "text": "Chieh's zodiac sign is: 金牛/ Taurus ",
+          "margin": "md"
+        },
+        {
+          "type": "text",
+          "text": "Your zodiac sign is: aaa",
+          "margin": "sm"
+        },
+        {
+          "type": "text",
+          "text": "Match score is:",
+          "margin": "md",
+          "size": "lg",
+          "color": "#1DB446",
+          "weight": "bold"
+        },
+        {
+          "type": "text",
+          "text": "79%",
+          "align": "center",
+          "margin": "lg",
+          "size": "3xl",
+          "weight": "bold"
+        },
+        {
+          "type": "button",
+          "action": {
+            "type": "uri",
+            "label": "Compatibility Result >",
+            "uri": "http://linecorp.com/"
+          },
+          "style": "primary",
+          "margin": "xxl"
+        }
+      ]
+    }
+  }

@@ -1,0 +1,459 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "giga",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://i.imgur.com/RanEQoG.png",
+            "size": "4xl",
+            "aspectMode": "fit",
+            "offsetBottom": "10px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "icon",
+                        "url": "https://i.imgur.com/wbNiXhG.png",
+                        "size": "lg"
+                      },
+                      {
+                        "type": "text",
+                        "text": "Introduction",
+                        "color": "#ffffff",
+                        "flex": 0,
+                        "offsetTop": "-2px",
+                        "weight": "regular",
+                        "size": "xl"
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ],
+                    "spacing": "sm"
+                  },
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "borderWidth": "1px",
+                "cornerRadius": "4px",
+                "spacing": "sm",
+                "borderColor": "#ffffff",
+                "margin": "sm",
+                "height": "40px",
+                "action": {
+                  "type": "postback",
+                  "label": "action",
+                  "data": "api_introduction"
+                }
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "icon",
+                        "url": "https://i.imgur.com/xkDH7UF.png",
+                        "size": "lg",
+                        "offsetTop": "-1px",
+                        "offsetStart": "-2px"
+                      },
+                      {
+                        "type": "text",
+                        "text": "3 mins vedio",
+                        "color": "#ffffff",
+                        "flex": 0,
+                        "offsetTop": "-2px",
+                        "size": "xl"
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ],
+                    "spacing": "sm"
+                  },
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "borderWidth": "1px",
+                "cornerRadius": "4px",
+                "spacing": "sm",
+                "borderColor": "#ffffff",
+                "margin": "md",
+                "height": "40px",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://app.animaker.com/video/RXT7AUUDPVQWLS9Y"
+                }
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "icon",
+                        "url": "https://i.imgur.com/SnUFa7c.png",
+                        "size": "lg",
+                        "offsetTop": "-1px",
+                        "offsetStart": "-1px"
+                      },
+                      {
+                        "type": "text",
+                        "text": "GitHub",
+                        "color": "#ffffff",
+                        "flex": 0,
+                        "offsetTop": "-2px",
+                        "size": "xl",
+                        "weight": "regular"
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ],
+                    "spacing": "sm"
+                  },
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "borderWidth": "1px",
+                "cornerRadius": "4px",
+                "spacing": "sm",
+                "borderColor": "#ffffff",
+                "margin": "md",
+                "height": "40px",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://github.com/jasmineliu0424/TweetCARD_API"
+                }
+              }
+            ],
+            "backgroundColor": "#17A589",
+            "paddingAll": "20px",
+            "paddingTop": "10px",
+            "offsetEnd": "0px",
+            "offsetStart": "0px",
+            "offsetBottom": "0px",
+            "position": "absolute"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "RECOMMENDATION SYS",
+                "color": "#ffffff",
+                "align": "center",
+                "size": "xs",
+                "offsetTop": "3px"
+              }
+            ],
+            "cornerRadius": "15px",
+            "offsetTop": "18px",
+            "backgroundColor": "#17A589",
+            "offsetStart": "60px",
+            "height": "25px",
+            "width": "175px",
+            "position": "absolute"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "API",
+                "color": "#ffffff",
+                "align": "center",
+                "size": "xs",
+                "offsetTop": "3px"
+              }
+            ],
+            "position": "absolute",
+            "cornerRadius": "15px",
+            "offsetTop": "18px",
+            "backgroundColor": "#17A589",
+            "height": "25px",
+            "width": "40px",
+            "offsetStart": "15px"
+          }
+        ],
+        "height": "350px"
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "giga",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://i.imgur.com/jDEGcER.png",
+            "size": "3xl",
+            "aspectMode": "fit",
+            "aspectRatio": "2:3",
+            "offsetBottom": "20px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "icon",
+                        "url": "https://i.imgur.com/wbNiXhG.png",
+                        "size": "lg"
+                      },
+                      {
+                        "type": "text",
+                        "text": "Introduction",
+                        "color": "#ffffff",
+                        "flex": 0,
+                        "offsetTop": "-2px",
+                        "weight": "regular",
+                        "size": "xl"
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ],
+                    "spacing": "sm"
+                  },
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "borderWidth": "1px",
+                "cornerRadius": "4px",
+                "spacing": "sm",
+                "borderColor": "#ffffff",
+                "margin": "sm",
+                "height": "40px",
+                "action": {
+                  "type": "postback",
+                  "label": "action",
+                  "data": "ptt_introduction"
+                }
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "icon",
+                        "url": "https://i.imgur.com/RMq8iGN.png",
+                        "size": "lg",
+                        "offsetTop": "-1px",
+                        "offsetStart": "-2px"
+                      },
+                      {
+                        "type": "text",
+                        "text": "Poster",
+                        "color": "#ffffff",
+                        "flex": 0,
+                        "offsetTop": "-2px",
+                        "size": "xl"
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ],
+                    "spacing": "sm"
+                  },
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "borderWidth": "1px",
+                "cornerRadius": "4px",
+                "spacing": "sm",
+                "borderColor": "#ffffff",
+                "margin": "md",
+                "height": "40px",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://drive.google.com/file/d/1vjwLHAS5ub-MqpgzzsusYqAeIRpVmaRP/view?usp=sharing"
+                }
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "icon",
+                        "url": "https://i.imgur.com/SnUFa7c.png",
+                        "size": "lg",
+                        "offsetTop": "-1px",
+                        "offsetStart": "-1px"
+                      },
+                      {
+                        "type": "text",
+                        "text": "GitHub",
+                        "color": "#ffffff",
+                        "flex": 0,
+                        "offsetTop": "-2px",
+                        "size": "xl",
+                        "weight": "regular"
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ],
+                    "spacing": "sm"
+                  },
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "borderWidth": "1px",
+                "cornerRadius": "4px",
+                "spacing": "sm",
+                "borderColor": "#ffffff",
+                "margin": "md",
+                "height": "40px",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://github.com/jasmineliu0424/PTT_groupBuying_trend_prediction"
+                }
+              }
+            ],
+            "position": "absolute",
+            "offsetBottom": "0px",
+            "offsetStart": "0px",
+            "offsetEnd": "0px",
+            "backgroundColor": "#EA8D00",
+            "paddingAll": "20px",
+            "paddingTop": "10px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "TREND PREDICTION",
+                "color": "#ffffff",
+                "align": "center",
+                "size": "xs",
+                "offsetTop": "3px"
+              }
+            ],
+            "position": "absolute",
+            "cornerRadius": "15px",
+            "offsetTop": "18px",
+            "backgroundColor": "#EA8D00",
+            "offsetStart": "60px",
+            "height": "25px",
+            "width": "140px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "PTT",
+                "color": "#ffffff",
+                "align": "center",
+                "size": "xs",
+                "offsetTop": "3px"
+              }
+            ],
+            "position": "absolute",
+            "cornerRadius": "15px",
+            "offsetTop": "18px",
+            "backgroundColor": "#EA8D00",
+            "offsetStart": "15px",
+            "height": "25px",
+            "width": "40px"
+          }
+        ],
+        "paddingAll": "0px",
+        "height": "350px"
+      }
+    }
+  ]
+}

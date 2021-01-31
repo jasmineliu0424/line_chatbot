@@ -1,0 +1,489 @@
+{
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "size": "giga",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Chieh Liu",
+                      "weight": "bold",
+                      "size": "lg"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "contents": [
+                        {
+                          "type": "icon",
+                          "url": "https://i.imgur.com/W6C72CJ.png",
+                          "size": "md",
+                          "offsetTop": "1px"
+                        },
+                        {
+                          "type": "text",
+                          "text": "TFG",
+                          "position": "absolute",
+                          "size": "md",
+                          "offsetStart": "20px"
+                        },
+                        {
+                          "type": "icon",
+                          "url": "https://i.imgur.com/wLsY66J.png",
+                          "offsetStart": "38px",
+                          "size": "sm",
+                          "offsetTop": "1px"
+                        }
+                      ],
+                      "margin": "xs"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "contents": [
+                        {
+                          "type": "icon",
+                          "url": "https://i.imgur.com/W6C72CJ.png",
+                          "offsetTop": "1px"
+                        },
+                        {
+                          "type": "text",
+                          "text": "NCCUMIS",
+                          "position": "absolute",
+                          "size": "md",
+                          "offsetStart": "20px"
+                        },
+                        {
+                          "type": "icon",
+                          "url": "https://i.imgur.com/dFxjDHF.png",
+                          "offsetStart": "81px",
+                          "offsetTop": "2.5px"
+                        }
+                      ],
+                      "margin": "xs"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "contents": [
+                        {
+                          "type": "icon",
+                          "url": "https://i.imgur.com/W6C72CJ.png",
+                          "offsetTop": "1px"
+                        },
+                        {
+                          "type": "text",
+                          "text": "NCCUCS",
+                          "position": "absolute",
+                          "size": "md",
+                          "offsetStart": "20px"
+                        },
+                        {
+                          "type": "icon",
+                          "url": "https://i.imgur.com/wrtJrnr.png",
+                          "offsetStart": "75px",
+                          "offsetTop": "3px"
+                        }
+                      ],
+                      "margin": "xs"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "image",
+                      "url": "https://i.imgur.com/UzRTG5a.png",
+                      "aspectMode": "cover",
+                      "size": "full"
+                    }
+                  ],
+                  "cornerRadius": "100px",
+                  "width": "80px",
+                  "height": "80px",
+                  "offsetTop": "5px"
+                }
+              ],
+              "spacing": "xl",
+              "paddingAll": "20px"
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "image",
+                      "url": "https://i.imgur.com/DUT28eG.jpg",
+                      "size": "full",
+                      "aspectMode": "cover",
+                      "aspectRatio": "150:98",
+                      "gravity": "center"
+                    },
+                    {
+                      "type": "image",
+                      "url": "https://i.imgur.com/P9fIyRR.jpg",
+                      "gravity": "center",
+                      "aspectMode": "cover",
+                      "aspectRatio": "150:98",
+                      "size": "full"
+                    }
+                  ],
+                  "flex": 1
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "image",
+                      "url": "https://i.imgur.com/YucSSEY.jpg",
+                      "aspectMode": "cover",
+                      "size": "full",
+                      "aspectRatio": "150:98"
+                    },
+                    {
+                      "type": "image",
+                      "url": "https://i.imgur.com/zv7U2mv.jpg",
+                      "aspectMode": "cover",
+                      "aspectRatio": "150:98",
+                      "size": "full"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "paddingAll": "0px"
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "postback",
+                "label": "Learn more >",
+                "data": "about_me"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "giga",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "TALENTS",
+              "weight": "bold",
+              "size": "lg"
+            },
+            {
+              "type": "separator",
+              "margin": "sm"
+            },
+            {
+              "type": "text",
+              "text": "PROGRAMMING SKILLS",
+              "size": "md",
+              "color": "#1DB446",
+              "weight": "bold",
+              "margin": "sm"
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "icon",
+                  "url": "https://i.imgur.com/w98h0H4.png",
+                  "size": "xs",
+                  "offsetTop": "1px"
+                },
+                {
+                  "type": "text",
+                  "text": "Python, C/C++, Java, MySQL",
+                  "weight": "regular",
+                  "size": "sm",
+                  "offsetStart": "8px"
+                }
+              ],
+              "margin": "xs"
+            },
+            {
+              "type": "separator",
+              "margin": "sm"
+            },
+            {
+              "type": "text",
+              "text": "LANGUAGES",
+              "size": "md",
+              "color": "#1DB446",
+              "weight": "bold",
+              "margin": "sm"
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "icon",
+                  "url": "https://i.imgur.com/w98h0H4.png",
+                  "size": "xs",
+                  "offsetTop": "1px"
+                },
+                {
+                  "type": "text",
+                  "text": "TOEIC 920, GRE 310",
+                  "weight": "regular",
+                  "size": "sm",
+                  "offsetStart": "8px"
+                }
+              ],
+              "margin": "xs"
+            },
+            {
+              "type": "text",
+              "text": "EXPERIENCE",
+              "weight": "bold",
+              "size": "lg",
+              "margin": "md"
+            },
+            {
+              "type": "separator",
+              "margin": "sm"
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "icon",
+                  "url": "https://i.imgur.com/w98h0H4.png",
+                  "size": "xs",
+                  "offsetTop": "1px"
+                },
+                {
+                  "type": "text",
+                  "text": "NCCU Research Assistant",
+                  "weight": "regular",
+                  "size": "sm",
+                  "offsetStart": "8px"
+                }
+              ],
+              "margin": "sm"
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "icon",
+                  "url": "https://i.imgur.com/w98h0H4.png",
+                  "size": "xs",
+                  "offsetTop": "1px"
+                },
+                {
+                  "type": "text",
+                  "text": "MOST College Student Research",
+                  "weight": "regular",
+                  "size": "sm",
+                  "offsetStart": "8px"
+                }
+              ],
+              "margin": "sm"
+            },
+            {
+              "type": "text",
+              "text": "Project",
+              "offsetStart": "20px",
+              "size": "sm"
+            },
+            {
+              "type": "text",
+              "text": "ACTIVITIES",
+              "weight": "bold",
+              "size": "lg",
+              "margin": "md"
+            },
+            {
+              "type": "separator",
+              "margin": "sm"
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "icon",
+                  "url": "https://i.imgur.com/w98h0H4.png",
+                  "size": "xs",
+                  "offsetTop": "1px"
+                },
+                {
+                  "type": "text",
+                  "text": "MIS Basketball Team Manager",
+                  "weight": "regular",
+                  "size": "sm",
+                  "offsetStart": "8px"
+                }
+              ],
+              "margin": "sm"
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "icon",
+                  "url": "https://i.imgur.com/w98h0H4.png",
+                  "size": "xs",
+                  "offsetTop": "1px"
+                },
+                {
+                  "type": "text",
+                  "text": "TFG Guitar Club",
+                  "weight": "regular",
+                  "size": "sm",
+                  "offsetStart": "8px"
+                }
+              ],
+              "margin": "sm"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "giga",
+        "hero": {
+          "type": "image",
+          "url": "https://i.imgur.com/BqV5Cx7.jpg",
+          "size": "full",
+          "aspectMode": "cover",
+          "aspectRatio": "320:213"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "CHARACTERISTIC",
+              "weight": "bold",
+              "size": "xl",
+              "offsetStart": "16%"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "postback",
+                    "label": "I am a ...",
+                    "data": "character"
+                  },
+                  "margin": "md",
+                  "style": "primary",
+                  "color": "#008AE4"
+                },
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "postback",
+                    "label": "Match Test",
+                    "data": "match"
+                  },
+                  "margin": "lg",
+                  "style": "primary",
+                  "color": "#008AE4"
+                }
+              ]
+            }
+          ],
+          "spacing": "sm",
+          "paddingAll": "13px"
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "giga",
+        "hero": {
+          "type": "image",
+          "url": "https://i.imgur.com/AcVtOW0.jpg",
+          "size": "full",
+          "aspectMode": "cover",
+          "aspectRatio": "320:213"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "PROJECT",
+              "weight": "bold",
+              "size": "xl",
+              "wrap": true,
+              "align": "center"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "uri",
+                    "label": "GitHub",
+                    "uri": "https://github.com/jasmineliu0424"
+                  },
+                  "style": "primary",
+                  "color": "#C62A03",
+                  "margin": "md"
+                },
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "postback",
+                    "label": "Learn more >",
+                    "data": "project"
+                  },
+                  "style": "primary",
+                  "color": "#C62A03",
+                  "margin": "lg"
+                }
+              ]
+            }
+          ],
+          "spacing": "sm",
+          "paddingAll": "13px"
+        }
+      }
+    ]
+  }
