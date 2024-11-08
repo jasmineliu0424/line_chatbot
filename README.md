@@ -7,3 +7,11 @@
 - 星座合拍程度
 
 歡迎透過這個聊天機器人來更加認識我！
+
+This chatbot allows you to:
+- Type "hello" to view my information
+- Learn about my experiences and expertise
+- Discover my personality traits and MBTI results
+- Check zodiac compatibility
+
+Feel free to use this chatbot to get to know me better!
