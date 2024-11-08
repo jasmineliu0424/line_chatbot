@@ -8,6 +8,8 @@
 
 歡迎透過這個聊天機器人來更加認識我！
 
+---
+
 This chatbot allows you to:
 - Type "hello" to view my information
 - Learn about my experiences and expertise
