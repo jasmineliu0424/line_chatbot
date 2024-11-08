@@ -17,3 +17,7 @@ This chatbot allows you to:
 - Check zodiac compatibility
 
 Feel free to use this chatbot to get to know me better!
+
+---
+
+![markdown](line_bot_demo.jpg "markdown")
